@@ -1,6 +1,6 @@
-python-telegram-bot==20.7
-fastapi==0.109.0
-uvicorn==0.27.0
-pytesseract==0.3.10
-Pillow==10.2.0
-requests==2.31.0
+python-telegram-bot
+fastapi
+uvicorn
+pytesseract
+Pillow
+requests
